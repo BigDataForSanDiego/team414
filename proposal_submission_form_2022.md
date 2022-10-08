@@ -8,9 +8,9 @@
 ##### Developing a simple default(first-aid) app that allows patients to get instant appointments with professional therapists nearby in a safe method with end-to-end encrypted conversation. 
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/Hackathon-Promot-Img-1.png?raw=true "Big Data Hackathon for San Diego 2022")  
+https://www.avenga.com/wp-content/uploads/2020/08/200721-avenga-magazine-buildmobileapp-banner.jpg
 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
+https://www.medresponsive.com/wp-content/uploads/2015/10/medical-mobile-app-development.jpg
 
 #### Hackathon Theme(s) (check a box(es))
 - [X] Artificial Intelligence/Machine Learning
@@ -23,7 +23,7 @@
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
 the patients are able to write anonymus reviews that can be flagged for review. there will be a feature.
 
-- [] Health Disparities
+- Health Disparities
 > What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
 
 - [X] Privacy and Security
