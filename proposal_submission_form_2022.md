@@ -9,8 +9,8 @@
 
 #### A visual
 <p align="center">
-  <img src="https://www.avenga.com/wp-content/uploads/2020/08/200721-avenga-magazine-buildmobileapp-banner.jpg" width="400">
-  <img src="https://www.medresponsive.com/wp-content/uploads/2015/10/medical-mobile-app-development.jpg" width="400">
+  <img src="https://www.avenga.com/wp-content/uploads/2020/08/200721-avenga-magazine-buildmobileapp-banner.jpg" width="800"><br>
+  <img src="https://www.medresponsive.com/wp-content/uploads/2015/10/medical-mobile-app-development.jpg" width="800">
 </p>
 
 #### Hackathon Theme(s) (check a box(es))
