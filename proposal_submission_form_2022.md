@@ -8,9 +8,10 @@
 ##### Developing a simple default(first-aid) app that allows patients to get instant appointments with professional therapists nearby in a safe method with end-to-end encrypted conversation. 
 
 #### A visual
-https://www.avenga.com/wp-content/uploads/2020/08/200721-avenga-magazine-buildmobileapp-banner.jpg
-
-https://www.medresponsive.com/wp-content/uploads/2015/10/medical-mobile-app-development.jpg
+<p align="center">
+  <img src="https://www.avenga.com/wp-content/uploads/2020/08/200721-avenga-magazine-buildmobileapp-banner.jpg" width="400">
+  <img src="https://www.medresponsive.com/wp-content/uploads/2015/10/medical-mobile-app-development.jpg" width="400">
+</p>
 
 #### Hackathon Theme(s) (check a box(es))
 - [X] Artificial Intelligence/Machine Learning
