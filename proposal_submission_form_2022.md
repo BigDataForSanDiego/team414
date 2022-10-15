@@ -4,8 +4,8 @@
 
 #### Team Name: Bindle Mingle
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BigDataForSanDiego/team414/3e592eff8fb628e89c5262e9413ba72dd9f2fc5c/Cozy.png" width="200" float="left">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/BigDataForSanDiego/team414/3e592eff8fb628e89c5262e9413ba72dd9f2fc5c/Cozy.png" width="200">
 </p>
   
 #### Your team’s hackathon idea in One sentence:
@@ -28,7 +28,7 @@
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
 the patients are able to write anonymus reviews that can be flagged for review. there will be a feature.
 
-  Health Disparities
+- Health Disparities
 > What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
 
 - [X] Privacy and Security
