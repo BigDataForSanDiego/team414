@@ -5,7 +5,7 @@
 #### Team Name: Bindle Mingle
 
 <p align="center">
-  <img src="[https://www.avenga.com/wp-content/uploads/2020/08/200721-avenga-magazine-buildmobileapp-banner.jpg](https://raw.githubusercontent.com/BigDataForSanDiego/team414/3e592eff8fb628e89c5262e9413ba72dd9f2fc5c/Cozy.png)" width="200">
+  <img src="https://raw.githubusercontent.com/BigDataForSanDiego/team414/3e592eff8fb628e89c5262e9413ba72dd9f2fc5c/Cozy.png" width="200">
 </p>
   
 #### Your team’s hackathon idea in One sentence:
